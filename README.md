@@ -1,6 +1,7 @@
 # urZONE PVE Core
 
 **By Osiris Simmons (Osiris83)**
+https://dnl.urzone.org/
 
 **urZONE PVE Core** is the engine behind self-service cloud management on WordPress. It contains the Proxmox API connection, plans, ownership of instances, the demo, the REST routes and the renderer that draws the panel your customers use. It registers no shortcodes of its own; a plan plugin shows the panel by calling the renderer.
 
@@ -72,4 +73,4 @@ Even on the free edition, developers can override the final limit in code using 
 
 ## Before you install
 
-Install only one edition of Core at a time, since they share the same functions. Core pairs with **urZONE PVE Settings**, which handles your Proxmox connection and defaults, so you can configure everything from the WordPress admin. https://dnl.urzone.org/
+Install only one edition of Core at a time, since they share the same functions. Core pairs with **urZONE PVE Settings**, which handles your Proxmox connection and defaults, so you can configure everything from the WordPress admin. 
